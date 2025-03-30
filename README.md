@@ -1,6 +1,7 @@
 # Car Sales Analysis
 
-This the Microsoft Excel project for analysing Car sales in different regions and car brands. 
+### This the Microsoft Excel project for analysing Car sales in different regions and car brands. 
+
 ![image](https://github.com/user-attachments/assets/148ad3c4-d05f-4ed8-81a4-6f8ccebae5ad)
 
 Analysis: 
